@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tute5-TestApp-Firebase</string>
+    <string name="id">StudentID</string>
+    <string name="name">Student Name</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact Num</string>
+    <string name="add">Add</string>
+    <string name="show">Show</string>
+    <string name="edit">Update</string>
+    <string name="remove">Delete</string>
+</resources>
